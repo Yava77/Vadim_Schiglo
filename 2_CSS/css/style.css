@@ -1,0 +1,35 @@
+div {
+    width: 144px;
+    height: 199px;
+    display: inline-block;
+    background-image: url(../img/cards.7e0a18f0.png);
+}
+
+.cardJ {
+    background-position-x: -427px;
+    background-position-y: -1585px;
+}
+
+.cardQ {
+    background-position-x: -428px;
+    background-position-y: -1784px;
+    position: relative;
+}
+
+.card9 {
+    background-position-x: -285px;
+    background-position-y: -1389px;
+    position: relative;
+}
+
+.cardA {
+    background-position-x: -143px;
+    background-position-y: -2180px;
+    position: relative;
+}
+
+.cardJOKER {
+    background-position-x: -286px;
+    background-position-y: -2380px;
+    position: relative;
+}
