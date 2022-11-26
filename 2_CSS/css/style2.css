@@ -1,0 +1,9 @@
+div {
+    background-color: black;
+    color:green;
+    overflow: auto;
+    width: 400px;
+    line-height: 15px;
+    max-height: 65px;
+    font-family: monospace;
+}
