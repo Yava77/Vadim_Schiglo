@@ -1,0 +1,28 @@
+.blok {
+    background-color: #cccccc;
+    width:15em;
+    float: left;
+    overflow: auto;
+    
+}
+
+.stat {
+    background-color: #aaaaaa;
+    width:100%;
+    margin-bottom: 0.2em;
+
+}
+
+footer {
+    background-color:#cccccc;
+    clear: both;
+}
+
+.img {
+    position: relative;
+    right: -85%;
+}
+
+.wrap {
+    margin: 0 0 0 15em;
+}
